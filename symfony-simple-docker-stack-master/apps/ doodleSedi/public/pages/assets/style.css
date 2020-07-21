@@ -1,0 +1,30 @@
+.cadre{
+    height: 80px;
+    z-index: 1000;
+}
+
+.side{
+    width: 25%;
+    height: 888px;
+    z-index: 1000;
+
+}
+
+.limit{
+    border: black 1px solid ;
+    z-index: 1000;
+
+}
+
+.unlink{
+    color: inherit;
+
+}
+
+:hover.unlink{
+    color: inherit;
+}
+
+#plus{
+    cursor: pointer;
+}
